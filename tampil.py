@@ -1,0 +1,21 @@
+from bangun_datar import *
+from bilangan_operasi import *
+
+persegi(5)
+persegi_panjang(30, 15)
+segitiga_sama_sisi(10, 5)
+jajar_genjang(10, 15, 13)
+belah_ketupat(20, 20, 14)
+lingkaran(10)
+layang_layang(12, 12, 20, 25)
+tambah(2,4)
+kurang(10,5)
+kali(12,3)
+bagi(50,5)
+pangkat(30,2)
+modulus(30, 2)
+log(30)
+akar(25)
+sin(20)
+cos(40)
+tan(60)
